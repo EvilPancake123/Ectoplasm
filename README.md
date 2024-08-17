@@ -5,6 +5,9 @@
 
 ![ezgif-5-c91390b029](https://github.com/user-attachments/assets/dbbdd753-f1fc-4944-9274-0ad7d58accb4)
 
+# *Disclaimer*
+Do **NOT** use settings sent to you by anyone else as it is possible to inject code into these and make the program run it. Instead make your own settings that fit for you.
+
 # Setup
  Download the latest release and unzip it, launch the Ectoplasm.exe, Windows might stop this, if it does click more info and run anyways.
  Once the tool has been launched it might ask for permission to access your network, this is as a consequence of how the decompiler works, however allowing access is not necessary.
